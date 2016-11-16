@@ -1,0 +1,42 @@
+* { 
+	box-sizing: border-box;
+}	
+
+
+li {
+
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	width: 100px;
+	background-color: orange;
+	padding-top: 1em; 
+	padding-bottom: 1em;
+
+
+}
+
+ul {
+
+	background: orangered;
+	text-align: center; 
+		color: white;
+	font-color: white;
+
+
+
+}
+
+.menu {
+
+	margin-right: 10px; 
+	
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	
+
+}
+
